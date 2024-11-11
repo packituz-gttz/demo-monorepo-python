@@ -1,3 +1,3 @@
 
 AWS_ACCESS_KEY_ID = 'gNsEb1LdL617mZk0rJ9rr8k/fffffff/JefzKKUZ'
-print(f'Hello Secret: {AWS_ACCESS_KEY_ID}')
+print(f'Hello Secrets: {AWS_ACCESS_KEY_ID}')
