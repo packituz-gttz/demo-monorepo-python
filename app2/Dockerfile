@@ -1,4 +1,4 @@
-FROM ubuntu:22.04
+FROM alpine:latest
 LABEL authors="packituz"
 
 ENTRYPOINT ["echo", "app2"]
