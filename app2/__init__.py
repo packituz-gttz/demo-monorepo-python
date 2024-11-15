@@ -1,1 +1,1 @@
-print("Heeellllooo fffff-2-fffff2fff")
+print("Heeellllooo ffffff-2-fffff2fff")
